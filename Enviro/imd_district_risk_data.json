@@ -1,0 +1,422 @@
+{
+  "Delhi": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon season."
+  },
+  "Mumbai": {
+    "riskLevel": "High",
+    "advice": "Flood risk during heavy rains."
+  },
+  "Chennai": {
+    "riskLevel": "Low",
+    "advice": "Minimal disaster risk currently."
+  },
+  "Kanpur": {
+    "riskLevel": "Moderate",
+    "advice": "Stay updated with local alerts."
+  },
+  "Ahmedabad": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Bengaluru": {
+    "riskLevel": "Low",
+    "advice": "No significant risk currently."
+  },
+  "Hyderabad": {
+    "riskLevel": "Low",
+    "advice": "Minimal disaster risk."
+  },
+  "Kolkata": {
+    "riskLevel": "High",
+    "advice": "Be prepared for flooding."
+  },
+  "Pune": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during heavy rains."
+  },
+  "Lucknow": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor local alerts."
+  },
+  "Jaipur": {
+    "riskLevel": "Low",
+    "advice": "No immediate risk."
+  },
+  "Patna": {
+    "riskLevel": "High",
+    "advice": "Be prepared for floods."
+  },
+  "Bhopal": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Nagpur": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor heavy rainfall."
+  },
+  "Visakhapatnam": {
+    "riskLevel": "Moderate",
+    "advice": "Cyclone risk in season."
+  },
+  "Thiruvananthapuram": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Ranchi": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Chandigarh": {
+    "riskLevel": "Low",
+    "advice": "Minimal disaster risk."
+  },
+  "Guwahati": {
+    "riskLevel": "High",
+    "advice": "Flood risk during monsoon."
+  },
+  "Shimla": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor landslide alerts."
+  },
+  "Varanasi": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river levels."
+  },
+  "Indore": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Surat": {
+    "riskLevel": "High",
+    "advice": "Flood risk during heavy rains."
+  },
+  "Vadodara": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon."
+  },
+  "Rajkot": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor local rainfall alerts."
+  },
+  "Coimbatore": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Madurai": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk currently."
+  },
+  "Tiruchirappalli": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Erode": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Salem": {
+    "riskLevel": "Low",
+    "advice": "No immediate risk."
+  },
+  "Mysuru": {
+    "riskLevel": "Low",
+    "advice": "Minimal disaster risk."
+  },
+  "Mangaluru": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor heavy rainfall alerts."
+  },
+  "Hubballi": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Belagavi": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert for local flooding."
+  },
+  "Davangere": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Hassan": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Ballari": {
+    "riskLevel": "Low",
+    "advice": "Minimal disaster risk."
+  },
+  "Dharwad": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Gulbarga": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Udupi": {
+    "riskLevel": "Moderate",
+    "advice": "Flood risk in heavy rains."
+  },
+  "Karwar": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor cyclone alerts."
+  },
+  "Alappuzha": {
+    "riskLevel": "High",
+    "advice": "Flood risk during monsoon."
+  },
+  "Kochi": {
+    "riskLevel": "High",
+    "advice": "Monitor coastal flooding alerts."
+  },
+  "Kozhikode": {
+    "riskLevel": "High",
+    "advice": "Flood and landslide risk."
+  },
+  "Kannur": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Kollam": {
+    "riskLevel": "High",
+    "advice": "Flood risk during heavy rains."
+  },
+  "Kottayam": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon."
+  },
+  "Palakkad": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall alerts."
+  },
+  "Thrissur": {
+    "riskLevel": "High",
+    "advice": "Flood risk during monsoon."
+  },
+  "Pathanamthitta": {
+    "riskLevel": "High",
+    "advice": "Landslide and flood risk."
+  },
+  "Malappuram": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon."
+  },
+  "Wayanad": {
+    "riskLevel": "High",
+    "advice": "Landslide and flood risk."
+  },
+  "Kasargod": {
+    "riskLevel": "High",
+    "advice": "Monitor heavy rainfall alerts."
+  },
+  "Srinagar": {
+    "riskLevel": "High",
+    "advice": "Monitor flood and snow alerts."
+  },
+  "Jammu": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river levels and snowfall."
+  },
+  "Leh": {
+    "riskLevel": "Moderate",
+    "advice": "Avalanche risk in winter."
+  },
+  "Ladakh": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor snow and landslide alerts."
+  },
+  "Amritsar": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Ludhiana": {
+    "riskLevel": "Low",
+    "advice": "Minimal disaster risk."
+  },
+  "Jalandhar": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Patiala": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Bathinda": {
+    "riskLevel": "Low",
+    "advice": "No immediate risk."
+  },
+  "Chandrapur": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor local heavy rainfall."
+  },
+  "Aurangabad": {
+    "riskLevel": "Moderate",
+    "advice": "Flood risk during monsoon."
+  },
+  "Nashik": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during heavy rains."
+  },
+  "Kolhapur": {
+    "riskLevel": "High",
+    "advice": "Flood risk during monsoon."
+  },
+  "Solapur": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Satara": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon."
+  },
+  "Sangli": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river levels."
+  },
+  "Thane": {
+    "riskLevel": "High",
+    "advice": "Flood risk during heavy rains."
+  },
+  "Raigad": {
+    "riskLevel": "High",
+    "advice": "Monitor coastal flooding alerts."
+  },
+  "Ratnagiri": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Sindhudurg": {
+    "riskLevel": "High",
+    "advice": "Coastal flooding risk."
+  },
+  "Wardha": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor local rainfall."
+  },
+  "Amravati": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river alerts."
+  },
+  "Akola": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Yavatmal": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall alerts."
+  },
+  "Dhule": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during heavy rains."
+  },
+  "Jalgaon": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river levels."
+  },
+  "Buldhana": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Gaya": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor local flooding."
+  },
+  "Muzaffarpur": {
+    "riskLevel": "High",
+    "advice": "Flood risk during monsoon."
+  },
+  "Darbhanga": {
+    "riskLevel": "High",
+    "advice": "Monitor river flooding."
+  },
+  "Bhagalpur": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon."
+  },
+  "Gorakhpur": {
+    "riskLevel": "High",
+    "advice": "Flood risk during monsoon."
+  },
+  "Allahabad": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river levels."
+  },
+  "Agra": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Meerut": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall alerts."
+  },
+  "Ghaziabad": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during heavy rains."
+  },
+  "Noida": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor local rainfall warnings."
+  },
+  "Aligarh": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Bareilly": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall alerts."
+  },
+  "Moradabad": {
+    "riskLevel": "Moderate",
+    "advice": "Stay alert during monsoon."
+  },
+  "Saharanpur": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall warnings."
+  },
+  "Dehradun": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Haridwar": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river levels."
+  },
+  "Nainital": {
+    "riskLevel": "Moderate",
+    "advice": "Landslide risk in heavy rain."
+  },
+  "Haldwani": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor rainfall alerts."
+  },
+  "Rishikesh": {
+    "riskLevel": "Moderate",
+    "advice": "Monitor river and rainfall alerts."
+  },
+  "Udaipur": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Kota": {
+    "riskLevel": "Low",
+    "advice": "No immediate risk."
+  },
+  "Ajmer": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Jodhpur": {
+    "riskLevel": "Low",
+    "advice": "No significant risk."
+  },
+  "Bikaner": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  },
+  "Alwar": {
+    "riskLevel": "Low",
+    "advice": "Minimal risk."
+  }
+}

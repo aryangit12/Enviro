@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Enviro</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <br>
+  <img src="Picture1 logo.png" alt="Enviro Logo" class="logo">
+  <h1> ENVIRO</h1>
+  <h1 class="tagline">" know your environment "</h1>
+
+  <br><br>
+
+  <section id="time-date">
+    <h2>Date & Time</h2>
+    <p id="current-time">--:--:--</p>
+    <br>
+    <p id="current-date">--/--/----</p>
+  </section>
+  <br><br>
+
+  <section id="air-quality">
+    <h2>Air Quality Monitoring</h2>
+    <input type="text" id="aq-city" placeholder="Enter city name" />
+    <button onclick="getAirQuality()">Check AQI</button>
+    <div id="aq-result"></div>
+  </section>
+
+  <section id="disaster-preparedness">
+    <h2>Disaster Preparedness Assistant</h2>
+    <input type="text" id="dp-city" placeholder="Enter city name" />
+    <button onclick="getDisasterRisk()">Check Risk</button>
+    <div id="dp-result"></div>
+  </section>
+
+  <!-- Weather Section -->
+  <section id="weather" class="card">
+    <h2>Weather Forecast</h2>
+    <input type="text" id="w-city" placeholder="Enter city name" />
+    <button onclick="getWeather()">Check Weather</button>
+    <div id="w-result"></div>
+  </section>
+
+  <section id="emergency">
+    <h2>🚨 Emergency Numbers</h2>
+    <select id="emergency-select">
+      <option value="">-- Select Service --</option>
+      <option value="112">All Emergency</option>
+      <option value="100">Police</option>
+      <option value="108">Ambulance</option>
+      <option value="101">Fire</option>
+      <option value="9711077372">NDRF</option>
+      <option value="1091">Women Helpline</option>
+      <option value="1098">Child Helpline</option>
+      <option value="1073">Road Accident</option>
+    </select>
+    <button id="call-btn">📞 Call</button>
+  </section>
+    <br><br>
+      <br><br>
+
+  <script src="script.js"></script>
+</body>
+</html>
